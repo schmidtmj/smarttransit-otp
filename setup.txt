@@ -32,4 +32,5 @@ docker-compose up otp-build
 #Start otp server
 docker-compose up -d otp-server
 
+#Note: docker-compose logs <service> will display logs for that service
 #Note: docker-compose down will pull the entire system down, use --build flag to rebuild containers when changes to Dockerfiles are made.
