@@ -1,0 +1,28 @@
+version: '3'
+services:
+  otp-base:
+    image:  otp:base
+    build:
+      context: './otp'
+      args:
+        - OTP_BASE=$OTP_BASE
+    volumes:
+      - $DATA_DIR:$OTP_GRAPHS
+  otp-server:
+    image:  otp:base
+    volumes:
+      - $DATA_DIR:$OTP_GRAPHS
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    command: "--router $ROUTER_ID --server"
+  otp-build:
+    image:  otp:base
+    volumes:
+      - $DATA_DIR:$OTP_GRAPHS
+    command: "--build $OTP_GRAPHS/$ROUTER_ID"
+  otp-help:
+    image:  otp:base
+    volumes:
+      - $DATA_DIR:$OTP_GRAPHS
+    command: "--help"
