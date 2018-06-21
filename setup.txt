@@ -26,8 +26,10 @@ cd smarttransit-otp
 ####Check that .env file matches current project neds (ROUTER_ID should equal folder holding GTFS data - in this case "accra")
 
 #Build otp graph
-docker-compose otp-base --build
-docker-compose otp-build
+docker-compose up --build otp-base
+docker-compose up otp-build
 
 #Start otp server
-docker-compose otp-server
+docker-compose up -d otp-server
+
+#Note: docker-compose down will pull the entire system down, use --build flag to rebuild containers when changes to Dockerfiles are made.
