@@ -1,0 +1,33 @@
+#!/bin/sh
+
+#Update and install basic tools
+sudo yum -y update
+sudo yum -y install git
+
+#Install docker
+sudo yum -y install docker
+sudo service docker start
+sudo usermod -a -G docker ec2-user
+
+####Exit and log back in to get usermod updated and not have to use sudo with docker commands
+
+#Install docker-compose
+sudo curl -L https://github.com/docker/compose/releases/download/1.20.1/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+
+#Test docker install
+docker run hello-world
+docker-compose --version
+
+#Fetch project from git
+git clone https://github.com/schmidtmj/smarttransit-otp.git
+cd smarttransit-otp
+
+####Check that .env file matches current project neds (ROUTER_ID should equal folder holding GTFS data - in this case "accra")
+
+#Build otp graph
+docker-compose otp-base --build
+docker-compose otp-build
+
+#Start otp server
+docker-compose otp-server

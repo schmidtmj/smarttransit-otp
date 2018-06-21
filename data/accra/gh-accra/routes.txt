@@ -1,0 +1,278 @@
+route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_color,route_text_color
+3,216,216,Circle Lido ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,214,214,Circle ↔ WAEC,AM3,,1779c2,ffffff
+3,212,212,Circle ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,210,210,Teachers Hall ↔ Circle,AM3,,1779c2,ffffff
+3,211,211,Tema (Motorway) ↔ Circle,AM3,,1779c2,ffffff
+3,452,452,Orgle-Road ↔ Kaneshie,AM3,,1779c2,ffffff
+3,219,219,Circle Overhead ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,164,164,Kaneshie ↔ Arena,AM3,,1779c2,ffffff
+3,90,90,Darkuman ↔ Achimota,AM3,,1779c2,ffffff
+3,538,538,Zambrama Line ↔ Kaneshie,AM3,,1779c2,ffffff
+3,490,490,Sukura ↔ Nima-Mamobi,AM3,,1779c2,ffffff
+3,225,225,Fan-Milk ↔ Accra CMB,AM3,,1779c2,ffffff
+3,492,492,Tabora Alhaji ↔ Kaneshie Station,AM3,,1779c2,ffffff
+3,26,26,Accra U.T.C ↔ Abeka Main Market,AM3,,1779c2,ffffff
+3,167,167,Kaneshie ↔ Atico,AM3,,1779c2,ffffff
+3,20,20,Accra UTC ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,21,21,Dome ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,23,23,Teshie Nungua ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,28,28,Circle Indust. Area ↔ Abeka Main Market,AM3,,1779c2,ffffff
+3,29,29,Kaneshie ↔ Abeka Main Market,AM3,,1779c2,ffffff
+3,344,344,Santa Maria ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,288,288,Swanlake ↔ Kaneshie,AM3,,1779c2,ffffff
+3,405,405,Nima Overhead ↔ Lapaz-Nii Boi Junction,AM3,,1779c2,ffffff
+3,347,347,Tema ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,4,4,Ashaiman Main Station ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,342,342,Omanjor ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,343,343,Race Course ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,281,281,Russia ↔ Kaneshie,AM3,,1779c2,ffffff
+3,8,8,Tema Community One Market ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,283,283,Makola Tudu ↔ Kaneshie Foot Bridge,AM3,,1779c2,ffffff
+3,282,282,Shalom ↔ Kaneshie,AM3,,1779c2,ffffff
+3,348,348,Tetteh Quarshie ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,284,284,Kaneshie Market Station ↔ Agyapa Ye North Kaneshie,AM3,,1779c2,ffffff
+3,287,287,North Industrial Area ↔ Kaneshie Market Station,AM3,,1779c2,ffffff
+3,286,286,New Fadama ↔ Kaneshie Market Station,AM3,,1779c2,ffffff
+3,995,995,Zamrama Line ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,7,7,Taifa ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,996,996,Nima - Maamobi ↔ Circle,AM3,,1779c2,ffffff
+3,522,522,Sukura ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,454,454,Circle ↔ Osu,AM3,,1779c2,ffffff
+3,6,6,Sakumono Estate ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,523,523,Trade Fair (La) ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,999,999,Sowutuom ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,998,998,Circle Overhead ↔ Ashaiaman,AM3,,1779c2,ffffff
+3,262,262,Glefe ↔ Accra Bishop,AM3,,1779c2,ffffff
+3,260,260,Ebenezer ↔ Accra Bishop,AM3,,1779c2,ffffff
+3,267,267,Kaneshie ↔ Appiah Danquah/ Soko,AM3,,1779c2,ffffff
+3,266,266,Afropa ↔ Kaneshie,AM3,,1779c2,ffffff
+3,265,265,Sukura ↔ Kaneshie,AM3,,1779c2,ffffff
+3,264,264,Hansonic ↔ Dansoman Last Stop,AM3,,1779c2,ffffff
+3,269,269,Kaneshie ↔ Bubuashie,AM3,,1779c2,ffffff
+3,88,88,Asofan ↔ Achimota,AM3,,1779c2,ffffff
+3,422,422,Madina/Adenta ↔ Circle Odorna,AM3,,1779c2,ffffff
+3,58,58,Six to Six Market ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,61,61,Accra ↔ Abelemkpe,AM3,,1779c2,ffffff
+3,55,55,Osu ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,56,56,Race Course ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,51,51,Manhia Afuaman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,50,50,Mallam Gbawe ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,424,424,Odorna ↔ Nungua,AM3,,1779c2,ffffff
+3,414,414,Nima Station ↔ Madina,AM3,,1779c2,ffffff
+3,378,378,Awoshie ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,416,416,Cantonments ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,417,417,Nima Station ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,410,410,Sukura Station ↔ Nima Overhead,AM3,,1779c2,ffffff
+3,298,298,Kokomlemle ↔ Dzorwulu,AM3,,1779c2,ffffff
+3,299,299,Abeka Lapaz ↔ Korle Bu,AM3,,1779c2,ffffff
+3,296,296,Russia Last Stop ↔ Kaneshie Takoradi Station,AM3,,1779c2,ffffff
+3,373,373,Dzorwulu ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,295,295,New Russia Last Stop ↔ Kaneshie Takoradi Station,AM3,,1779c2,ffffff
+3,293,293,Mamprobi C Lante ↔ Kaneshie Takoradi Station,AM3,,1779c2,ffffff
+3,290,290,Kaneshie Takoradi Station ↔ Dansoman Last Stop,AM3,,1779c2,ffffff
+3,291,291,Korle Bu ↔ Kaneshie Takoradi Station,AM3,,1779c2,ffffff
+3,544,544,Zongo Junction ↔ Korle Bu,AM3,,1779c2,ffffff
+3,456,456,Osu ↔ Madina,AM3,,1779c2,ffffff
+3,318,318,Madina ↔ Kwashieman,AM3,,1779c2,ffffff
+3,313,313,Kwashieman ↔ A Lang,AM3,,1779c2,ffffff
+3,196,196,Kotobabi Down Polo Park ↔ Circle,AM3,,1779c2,ffffff
+3,317,317,Kwashieman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,193,193,Immesco Rice ↔ Circle,AM3,,1779c2,ffffff
+3,192,192,Fadama Last stop ↔ Circle,AM3,,1779c2,ffffff
+3,270,270,Kaneshie ↔ Camara,AM3,,1779c2,ffffff
+3,114,114,Taifa ↔ Achimota,AM3,,1779c2,ffffff
+3,117,117,Tema Main Station ↔ Achimota,AM3,,1779c2,ffffff
+3,116,116,Tema ↔ Achimota,AM3,,1779c2,ffffff
+3,274,274,Maamobi ↔ Kaneshie,AM3,,1779c2,ffffff
+3,275,275,Madina-Adenta ↔ Kaneshie,AM3,,1779c2,ffffff
+3,276,276,Mamponse ↔ Kaneshie,AM3,,1779c2,ffffff
+3,112,112,Ashaiman Main Station ↔ Achimota,AM3,,1779c2,ffffff
+3,278,278,New town ↔ Kaneshie,AM3,,1779c2,ffffff
+3,399,399,Nima Overhead Maamobi ↔ Achimota Terminal,AM3,,1779c2,ffffff
+3,398,398,Nima Mamobi ↔ Ashiaman,AM3,,1779c2,ffffff
+3,93,93,Dome Pillar 2 ↔ Achimota,AM3,,1779c2,ffffff
+3,118,118,Teshie-Nungua ↔ Achimota,AM3,,1779c2,ffffff
+3,84,84,Kuntunse/Satelite ↔ Achimota,AM3,,1779c2,ffffff
+3,85,85,Akweteman Zongo ↔ Achimota,AM3,,1779c2,ffffff
+3,251,251,Darkuman ↔ Accra Post - Office,AM3,,1779c2,ffffff
+3,415,415,Nyaho ↔ Nima Station,AM3,,1779c2,ffffff
+3,256,256,Adjiringanor ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,535,535,Zambrama Line ↔ Agbogbloshie 2,AM3,,1779c2,ffffff
+3,524,524,Banana Inn ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,428,428,Tsui Bleoo ↔ Circle Odorna,AM3,,1779c2,ffffff
+3,3,3,Tse Addo ↔ 37 Lorry Park,AM3,,1779c2,ffffff
+3,520,520,Camara ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,521,521,Chemuna ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,368,368,Accra New Tema Station ↔ Abelemkpe,AM3,,1779c2,ffffff
+3,369,369,Agbogbloshie ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,367,367,New Fadama ↔ Accra CMB,AM3,,1779c2,ffffff
+3,423,423,Odorna ↔ Nima Mamobi,AM3,,1779c2,ffffff
+3,255,255,East Legon ↔ Circle,AM3,,1779c2,ffffff
+3,425,425,Nungua ↔ Circle Odorna,AM3,,1779c2,ffffff
+3,363,363,Mataheko ↔ Kaneshie,AM3,,1779c2,ffffff
+3,308,308,Kotobabi Down ↔ Accra CMB,AM3,,1779c2,ffffff
+3,309,309,Kotobabi Down ↔ Circle Lido,AM3,,1779c2,ffffff
+3,449,449,Orgle Street ↔ Kaneshie,AM3,,1779c2,ffffff
+3,412,412,Nima Station ↔ Agbogbloshie,AM3,,1779c2,ffffff
+3,443,443,Okponglo ↔ Christian Centre,AM3,,1779c2,ffffff
+3,301,301,Kasoa ↔ Korle Bu,AM3,,1779c2,ffffff
+3,302,302,Kwashieman/Santa Maria ↔ Korle Bu,AM3,,1779c2,ffffff
+3,303,303,Mallam ↔ Korle Bu,AM3,,1779c2,ffffff
+3,447,447,Opetekwei ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,305,305,Kaneshie ↔ Dansoman,AM3,,1779c2,ffffff
+3,306,306,Korle Bu ↔ Darkuman,AM3,,1779c2,ffffff
+3,307,307,Kotobabi Down ↔ 37,AM3,,1779c2,ffffff
+3,380,380,Haatso ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,247,247,Darkuman ↔ Agbogbloshie,AM3,,1779c2,ffffff
+3,383,383,Ashaiman Main Station ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,241,241,Circle Overhead ↔ Bawaleshie,AM3,,1779c2,ffffff
+3,240,240,Nyamekye ↔ Dansoman,AM3,,1779c2,ffffff
+3,243,243,Santa Maria ↔ Dansoman,AM3,,1779c2,ffffff
+3,242,242,Odorkor ↔ Dansoman,AM3,,1779c2,ffffff
+3,102,102,Madina Station ↔ Achimota,AM3,,1779c2,ffffff
+3,103,103,Mallam Attah ↔ Achimota,AM3,,1779c2,ffffff
+3,100,100,Legon Station ↔ Achimota,AM3,,1779c2,ffffff
+3,444,444,Agbogbloshie ↔ Opetekwei,AM3,,1779c2,ffffff
+3,249,249,Darkuman ↔ Accra CMB,AM3,,1779c2,ffffff
+3,107,107,Ofankor ↔ Achimota,AM3,,1779c2,ffffff
+3,104,104,Mayera/Adusa ↔ Achimota,AM3,,1779c2,ffffff
+3,105,105,Medie/Kotoku ↔ Achimota,AM3,,1779c2,ffffff
+3,39,39,Antie-Eku Pallas Town ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,38,38,Amasaman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,420,420,Kotobabi Down ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,31,31,37 ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,30,30,Mallam Atta ↔ Abeka Main Market,AM3,,1779c2,ffffff
+3,36,36,Agbogbloshie ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,35,35,Agape ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,419,419,Odorna ↔ Agblezah,AM3,,1779c2,ffffff
+3,445,445,Opetekwei ↔ Circle,AM3,,1779c2,ffffff
+3,377,377,Ashongman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,438,438,Odorkor ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,436,436,Official Town ↔ Odorkor,AM3,,1779c2,ffffff
+3,437,437,South Odorkor ↔ Odorkor,AM3,,1779c2,ffffff
+3,393,393,Nima ↔ Accra,AM3,,1779c2,ffffff
+3,376,376,Pigfarm ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,385,385,Accra New Town ↔ 37,AM3,,1779c2,ffffff
+3,458,458,Pigfarm ↔ Accra CMB,AM3,,1779c2,ffffff
+3,52,52,Mayera ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,339,339,Madina ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,338,338,Lomnava ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,271,271,Kaneshie ↔ Chorkor,AM3,,1779c2,ffffff
+3,337,337,Ashaiman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,336,336,Alhaji ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,331,331,Accra ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,455,455,Osu ↔ Kaneshie,AM3,,1779c2,ffffff
+3,333,333,Adenta ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,388,388,Kasoa ↔ Accra New Town,AM3,,1779c2,ffffff
+3,64,64,Kasoa ↔ Abossey-Okai,AM3,,1779c2,ffffff
+3,65,65,Darkuman ↔ Accra,AM3,,1779c2,ffffff
+3,66,66,Nima ↔ Accra,AM3,,1779c2,ffffff
+3,178,178,Bubuashie Ayigbe Town ↔ Accra CMB,AM3,,1779c2,ffffff
+3,177,177,Circle ↔ Bubiashie-Atico,AM3,,1779c2,ffffff
+3,176,176,Circle ↔ Bubiashie Control (Old Station ),AM3,,1779c2,ffffff
+3,175,175,Banana Inn/Dansoman ↔ Agbogbloshie,AM3,,1779c2,ffffff
+3,174,174,Circle ↔ Bubiashie Ayigbe Town,AM3,,1779c2,ffffff
+3,173,173,Cantonment ↔ Accra Bishop,AM3,,1779c2,ffffff
+3,172,172,Banana Inn ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,254,254,Dzorwulu ↔ Circle,AM3,,1779c2,ffffff
+3,170,170,Banana Inn ↔ Accra Post Office,AM3,,1779c2,ffffff
+3,542,542,Zongo Junction ↔ Chorkor,AM3,,1779c2,ffffff
+3,406,406,Nima Overhead ↔ Mallam,AM3,,1779c2,ffffff
+3,540,540,Zongo Junction ↔ Agege,AM3,,1779c2,ffffff
+3,2,2,Osu (37 Station) ↔ 37 Lorry Park,AM3,,1779c2,ffffff
+3,391,391,Nima Maamobi ↔ Accra New Town,AM3,,1779c2,ffffff
+3,185,185,Chorkor ↔ Agbogbloshie,AM3,,1779c2,ffffff
+3,188,188,Circle ↔ Asore Danho,AM3,,1779c2,ffffff
+3,442,442,Okponglo ↔ Bawaleshie,AM3,,1779c2,ffffff
+3,536,536,Zambrama Line ↔ Arena,AM3,,1779c2,ffffff
+3,402,402,Nima Overhead ↔ Awoshie Last Stop,AM3,,1779c2,ffffff
+3,386,386,New Town ↔ Adenta,AM3,,1779c2,ffffff
+3,310,310,Kotobabi Down ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,469,469,Nungua Authority ↔ Accra Rawlings Park,AM3,,1779c2,ffffff
+3,401,401,Nima Overhead ↔ Israel Lomnava,AM3,,1779c2,ffffff
+3,467,467,Sakaman Blue Lagoon ↔ Accra Rawlings Park,AM3,,1779c2,ffffff
+3,400,400,Nima Overhead Maamobi ↔ Alajo Station,AM3,,1779c2,ffffff
+3,463,463,Mamprobi ↔ Accra Post Office,AM3,,1779c2,ffffff
+3,99,99,Legon ↔ Achimota,AM3,,1779c2,ffffff
+3,98,98,Abeka Lapaz ↔ Achimota,AM3,,1779c2,ffffff
+3,228,228,Odorkor ↔ Accra CMB,AM3,,1779c2,ffffff
+3,227,227,Manhean ↔ Accra CMB,AM3,,1779c2,ffffff
+3,226,226,Pigfarm ↔ Circle,AM3,,1779c2,ffffff
+3,166,166,Russia ↔ Arena,AM3,,1779c2,ffffff
+3,224,224,Alajo ↔ Accra CMB,AM3,,1779c2,ffffff
+3,223,223,Accra CMB ↔ Ablekuma,AM3,,1779c2,ffffff
+3,222,222,Nima mamobi ↔ Circle Overhead,AM3,,1779c2,ffffff
+3,221,221,Madina ↔ Circle Overhead,AM3,,1779c2,ffffff
+3,163,163,Apapa ↔ Accra New Tema Station,AM3,,1779c2,ffffff
+3,11,11,Circle Accra ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,10,10,Amasaman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,15,15,Dome Kwabenya ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,16,16,Sapeiman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,19,19,Kotokuo ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,18,18,Kasoa ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,314,314,Kwashieman ↔ Achimota,AM3,,1779c2,ffffff
+3,272,272,Good Shepherd ↔ Kaneshie,AM3,,1779c2,ffffff
+3,349,349,Yellow House ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,273,273,Korlebu ↔ Kaneshie,AM3,,1779c2,ffffff
+3,408,408,Pokuase Amasaman ↔ Nima Overhead,AM3,,1779c2,ffffff
+3,92,92,Dome /Ashongman Estates ↔ Achimota,AM3,,1779c2,ffffff
+3,155,155,Kaneshie ↔ Akoto Lante,AM3,,1779c2,ffffff
+3,395,395,Nima ↔ Circle,AM3,,1779c2,ffffff
+3,157,157,Circle ↔ Alajo,AM3,,1779c2,ffffff
+3,994,994,Chemuna ↔ Accra Rawlings Park,AM3,,1779c2,ffffff
+3,159,159,Kotobabi Police Station ↔ Alajo Junction,AM3,,1779c2,ffffff
+3,277,277,Mamprobi Alhaji ↔ Kaneshie,AM3,,1779c2,ffffff
+3,82,82,Adjiringanor ↔ Achimota,AM3,,1779c2,ffffff
+3,238,238,Dansoman ↔ Circle,AM3,,1779c2,ffffff
+3,235,235,Dansoman ↔ Achimota,AM3,,1779c2,ffffff
+3,236,236,Dansoman ↔ Arena,AM3,,1779c2,ffffff
+3,237,237,Dansoman ↔ Awoshie,AM3,,1779c2,ffffff
+3,230,230,Omanjor ↔ Accra CMB,AM3,,1779c2,ffffff
+3,231,231,Weija ↔ Accra CMB,AM3,,1779c2,ffffff
+3,70,70,Adjringanor/Otanor ↔ Accra End of the Motorway,AM3,,1779c2,ffffff
+3,468,468,La Olympia ↔ Accra Rawlings Park,AM3,,1779c2,ffffff
+3,81,81,Adenta Station ↔ Achimota,AM3,,1779c2,ffffff
+3,48,48,Korle Bu ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,473,473,Chemuna ↔ Accra Salaga,AM3,,1779c2,ffffff
+3,46,46,Kaneshie ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,43,43,Bubiashie ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,40,40,Ashiaman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,41,41,Asofan ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,322,322,Kwashieman Junction ↔ Accra CMB,AM3,,1779c2,ffffff
+3,326,326,Sowutuom ↔ Kwashieman Junction,AM3,,1779c2,ffffff
+3,324,324,Kwashieman Junction ↔ Antie Aku,AM3,,1779c2,ffffff
+3,325,325,Santa Maria ↔ Kwashieman Junction,AM3,,1779c2,ffffff
+3,9,9,Adeyman ↔ Abeka Lapaz,AM3,,1779c2,ffffff
+3,328,328,Rawlings Park ↔ Kwashieman Junction,AM3,,1779c2,ffffff
+3,200,200,New Melcom ↔ Circle,AM3,,1779c2,ffffff
+3,203,203,Orgle Road ↔ Circle,AM3,,1779c2,ffffff
+3,202,202,Novotel ↔ Circle,AM3,,1779c2,ffffff
+3,205,205,Osu RE ↔ Circle,AM3,,1779c2,ffffff
+3,204,204,Osu Presby ↔ Circle,AM3,,1779c2,ffffff
+3,207,207,Ridge Hospital ↔ Circle,AM3,,1779c2,ffffff
+3,206,206,Osu RE ↔ Circle,AM3,,1779c2,ffffff
+3,209,209,Swanlake Last Stop ↔ Circle,AM3,,1779c2,ffffff
+3,208,208,Stadium ↔ Circle,AM3,,1779c2,ffffff
+3,394,394,Nima ↔ Ashaiman,AM3,,1779c2,ffffff
+3,486,486,Soko ↔ Accra Post Office,AM3,,1779c2,ffffff
+3,76,76,37 ↔ Achimota,AM3,,1779c2,ffffff
+3,72,72,Caprice ↔ Accra New Town,AM3,,1779c2,ffffff
+3,71,71,American House ↔ Accra End of the Motorway,AM3,,1779c2,ffffff
+3,488,488,Sukura ↔ Arena,AM3,,1779c2,ffffff
+3,474,474,Appiah Danquah ↔ Accra Salaga,AM3,,1779c2,ffffff
+3,485,485,Soko ↔ Accra Post Office,AM3,,1779c2,ffffff
+3,434,434,Odorkor ↔ Anyah,AM3,,1779c2,ffffff
+3,480,480,Shiabu ↔ Agbogbloshie,AM3,,1779c2,ffffff
+3,441,441,Okponglo ↔ American House,AM3,,1779c2,ffffff
+3,435,435,Odorkor ↔ Kasoa,AM3,,1779c2,ffffff
+3,389,389,Madina ↔ Accra New Town,AM3,,1779c2,ffffff
+3,404,404,Nima Overhead ↔ Dome Railway Crossing,AM3,,1779c2,ffffff
+3,357,357,Mallam Attah ↔ Kotobabi Down/Polo park,AM3,,1779c2,ffffff
+3,356,356,Mallam Atta ↔ Achimota,AM3,,1779c2,ffffff
+3,470,470,Osu Penta Hotel ↔ Accra Rawlings Park,AM3,,1779c2,ffffff
+3,476,476,Camara ↔ Accra Salaga,AM3,,1779c2,ffffff
+3,351,351,Legon ↔ Dome,AM3,,1779c2,ffffff
+3,431,431,Korle Bu ↔ Circle Odorna,AM3,,1779c2,ffffff
+3,539,539,Zambrama Line ↔ Odorna-Circle,AM3,,1779c2,ffffff
+3,990,990,SSNIT Flats ↔ Circle Odorna,AM3,,1779c2,ffffff
